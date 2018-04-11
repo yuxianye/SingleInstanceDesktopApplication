@@ -1,0 +1,2 @@
+# SingleInstanceDesktopApplication
+Single Instance Desktop Application
